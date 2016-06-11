@@ -1,0 +1,6 @@
+﻿El principio de programacion "no te repitas" (DRY por sus siglas en ingles) debe ser aplicado a todo. Esto incluye textos.
+
+La ventaja de tener los textos como recursos ademas de la reutilización es que hacer cambios es mucho mas sencillo, no hay que buscar usos.
+
+Ademas el uso de .resx nos permite si la aplicación necesita ser localizada luego (traducida a otro idioma) hacerlo de manera mas sencilla (solo hay que agregar un .resx 
+nuevo para el idioma deseado y por cada palabra en el original poner su traducción).

@@ -1,0 +1,5 @@
+C:\Users\Jose Perez\Documents\Visual Studio 2013\Projects\Gestor-Finanzas-Personales\GestorFinanzasPersonales.LN\bin\Debug\GestorFinanzasPersonales.LN.dll
+C:\Users\Jose Perez\Documents\Visual Studio 2013\Projects\Gestor-Finanzas-Personales\GestorFinanzasPersonales.LN\bin\Debug\GestorFinanzasPersonales.LN.pdb
+C:\Users\Jose Perez\Documents\Visual Studio 2013\Projects\Gestor-Finanzas-Personales\GestorFinanzasPersonales.LN\obj\Debug\GestorFinanzasPersonales.LN.csprojResolveAssemblyReference.cache
+C:\Users\Jose Perez\Documents\Visual Studio 2013\Projects\Gestor-Finanzas-Personales\GestorFinanzasPersonales.LN\obj\Debug\GestorFinanzasPersonales.LN.dll
+C:\Users\Jose Perez\Documents\Visual Studio 2013\Projects\Gestor-Finanzas-Personales\GestorFinanzasPersonales.LN\obj\Debug\GestorFinanzasPersonales.LN.pdb
