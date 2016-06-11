@@ -1,0 +1,66 @@
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Finanzas Personales.dll.config
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Finanzas Personales.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Finanzas Personales.pdb
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Antlr3.Runtime.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\EntityFramework.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\EntityFramework.SqlServer.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Newtonsoft.Json.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Owin.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\System.Web.Optimization.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\System.Web.Providers.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\WebGrease.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\System.Web.Optimization.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Antlr3.Runtime.pdb
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Newtonsoft.Json.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\EntityFramework.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\EntityFramework.SqlServer.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\System.Web.Providers.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\EntityFramework.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\obj\Debug\Finanzas Personales.csprojResolveAssemblyReference.cache
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\obj\Debug\Finanzas Personales.dll
+C:\Users\Jose Perez\documents\visual studio 2013\Projects\Finanzas Personales\obj\Debug\Finanzas Personales.pdb
